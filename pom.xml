@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>cloudNative</groupId>
-	<artifactId>APIGateway</artifactId>
+	<artifactId>Eureka</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>APIGateway</name>
-	<description>APIGateway for cloud native system</description>
+	<name>Eureka</name>
+	<description>Eureka for cloud native system</description>
 	<url/>
 	<licenses>
 		<license/>
